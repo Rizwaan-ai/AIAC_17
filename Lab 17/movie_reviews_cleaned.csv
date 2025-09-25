@@ -1,0 +1,16 @@
+review_id,rating,review_text_clean,rating_filled,rating_normalized,tfidf_acting,tfidf_amazing,tfidf_movie,tfidf_plot,tfidf_terrible
+1,8,amazing movie!,8,0.8,0,0.707106781,0.707106781,0,0
+2,2,terrible acting & plot!!!,2,0.2,0.577350269,0,0,0.577350269,0.577350269
+3,,amazing movie!,8,0.8,0,0.707106781,0.707106781,0,0
+4,8,terrible acting & plot!!!,8,0.8,0.577350269,0,0,0.577350269,0.577350269
+5,5,amazing movie!,5,0.5,0,0.707106781,0.707106781,0,0
+6,2,terrible acting & plot!!!,2,0.2,0.577350269,0,0,0.577350269,0.577350269
+7,8,amazing movie!,8,0.8,0,0.707106781,0.707106781,0,0
+8,8,terrible acting & plot!!!,8,0.8,0.577350269,0,0,0.577350269,0.577350269
+9,10,amazing movie!,10,1,0,0.707106781,0.707106781,0,0
+10,5,terrible acting & plot!!!,5,0.5,0.577350269,0,0,0.577350269,0.577350269
+11,8,amazing movie!,8,0.8,0,0.707106781,0.707106781,0,0
+12,2,terrible acting & plot!!!,2,0.2,0.577350269,0,0,0.577350269,0.577350269
+13,10,amazing movie!,10,1,0,0.707106781,0.707106781,0,0
+14,8,terrible acting & plot!!!,8,0.8,0.577350269,0,0,0.577350269,0.577350269
+15,,amazing movie!,8,0.8,0,0.707106781,0.707106781,0,0
